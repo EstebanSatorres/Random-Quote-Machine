@@ -20,7 +20,7 @@
     padding: 25px;
     background-color: white;
     border-radius: 10px;
-    color: black;
+    color: #282c34;
     max-width: 500px;
     
     #text{
@@ -45,7 +45,8 @@
       #tweet-quote{
         display: flex;
         padding: 10px;
-        color: white;
+        color: #ffffff;
+        background-color: #282c34;
         border-radius: 10px;
         max-width: 50px;
         height: 100%;
@@ -59,6 +60,7 @@
         padding: 10px;
         border: none;
         color: white;
+        background-color: #282c34;
         cursor: pointer;
         font-size: 16px;
       }
